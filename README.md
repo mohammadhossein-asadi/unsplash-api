@@ -1,2 +1,2 @@
-# unsplash-api-project
+# unsplash-api
 
